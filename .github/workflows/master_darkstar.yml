@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Darkstar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D6329BCFBCA4721AA4072BAE594F183 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DEBFE5222F1457C9C54C8367C52CC5D }}
           package: .
